@@ -1,5 +1,4 @@
 The Hobbit, JRR Tolkien, 1937, 4.8, 304
 The Hunger Games, Suzanne Collins, 2008, 4.32, 374
 Harry Potter and the Sorcerer's Stone, J.K. Rowling, 1997, 4.46, 309
-thehobbit, jrrtoltien, 1934, 2.3, 434
-the hoobit, jrr tolkein, 1233, 2.4, 456
+
